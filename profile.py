@@ -1,0 +1,15 @@
+name=input("Enter your name:")
+age=int(input("Enter your age:"))
+course=(input("Enter your course:"))
+GPA=float(input("Enter your GPA:"))
+Local_Student_Status=(input("Enter your Local_student_status:"))
+
+Current_year=2026
+Birthyear=Current_year-age
+
+print("Enter student profile")
+print(f"=Your name is {name}")
+print(f"Your age is {age}")
+print(f"Your course is {course}")
+print(f"Your GPA is {GPA}")
+print('yes' if Local_Student_Status else 'No')
