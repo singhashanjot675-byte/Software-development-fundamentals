@@ -1,1 +1,2 @@
-# Software-development-fundamentals
+Student Attendance Trackingb System
+This project is a simple Student Attendance System made using Python. It helps to store and manage student details like name, course, and attendance percentage. Each student is given a unique ID automatically. The program allows the user to add new students, view all student records, update student information, and calculate the average attendance. It uses basic Object-Oriented Programming concepts like classes and objects. The system runs using a menu where the user can choose what action to perform. This project is useful for beginners to understand how Python works in a real-life example.
